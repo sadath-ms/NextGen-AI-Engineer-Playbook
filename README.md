@@ -100,3 +100,94 @@ NextGen-AI-Engineer-Playbook/
 │   └── job-tracker.md
 │
 └── README.md                     # You're here!
+
+1. Large Language Models & AI APIs
+OpenAI API docs (Python examples):
+https://platform.openai.com/docs/api-reference/introduction
+
+Prompt Engineering Guide by OpenAI:
+https://learnprompting.org/
+
+LangChain (chains, memory, agents):
+https://docs.langchain.com/docs/
+
+Vector Databases (ChromaDB, FAISS intro):
+https://www.pinecone.io/learn/vector-database/
+https://faiss.ai/
+
+2. FastAPI (Backend)
+Official FastAPI docs (best for senior devs):
+https://fastapi.tiangolo.com/
+
+Full FastAPI tutorial with async, validation, and deployment:
+https://testdriven.io/courses/fastapi/
+
+Real-world FastAPI project (GitHub):
+https://github.com/tiangolo/full-stack-fastapi-postgresql
+
+3. Frontend Frameworks (React / Tailwind / HTMX)
+React official docs:
+https://reactjs.org/docs/getting-started.html
+
+Tailwind CSS:
+https://tailwindcss.com/docs/installation
+
+HTMX (simple progressive enhancement frontend):
+https://htmx.org/docs/
+
+4. DevOps & CI/CD
+Docker for Developers (best beginner to advanced):
+https://docs.docker.com/get-started/
+
+Docker Compose:
+https://docs.docker.com/compose/
+
+GitHub Actions for CI/CD pipelines:
+https://docs.github.com/en/actions
+
+Deploying FastAPI apps (Render/Railway):
+https://render.com/docs/deploy-fastapi-app
+https://docs.railway.app/deployments/python
+
+5. Data Structures & Algorithms
+LeetCode (daily problem practice):
+https://leetcode.com/
+
+GeeksforGeeks DSA tutorials:
+https://www.geeksforgeeks.org/data-structures/
+
+Coding Interview University (GitHub repo):
+https://github.com/jwasham/coding-interview-university
+
+FreeCodeCamp DSA course (video):
+https://www.youtube.com/watch?v=8hly31xKli0
+
+6. Communication Skills
+Toastmasters International (public speaking & leadership):
+https://www.toastmasters.org/
+
+Presentation skills tips by TED Talks:
+https://www.ted.com/topics/presentation+skills
+
+Writing clear README & technical docs:
+https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/
+
+7. System Design & Interview Prep
+System Design Primer (GitHub):
+https://github.com/donnemartin/system-design-primer
+
+Grokking the System Design Interview (paid, but worth):
+https://www.educative.io/courses/grokking-the-system-design-interview
+
+Interview Questions for AI / ML roles (Medium article):
+https://medium.com/analytics-vidhya/60-ai-machine-learning-interview-questions-and-answers-for-data-scientists-8cc57a48f29f
+
+8. Job Search & Networking
+LinkedIn Optimization tips:
+https://www.linkedin.com/pulse/optimize-linkedin-profile-land-your-dream-job-2023-bhanu-pratap/
+
+Applying for AI jobs in India & Dubai (Naukri, LinkedIn, Bayt):
+https://www.naukri.com/
+https://www.linkedin.com/jobs/
+https://www.bayt.com/en/uae/jobs/
+
