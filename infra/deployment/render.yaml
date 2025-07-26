@@ -1,0 +1,4 @@
+# Render deployment config placeholder
+services:
+  - type: web
+    name: chat-api

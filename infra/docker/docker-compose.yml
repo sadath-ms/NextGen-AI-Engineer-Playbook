@@ -1,0 +1,5 @@
+# Docker Compose for all services
+version: '3'
+services:
+  chat-api:
+    build: ../../usecases/chat-api

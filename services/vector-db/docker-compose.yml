@@ -1,0 +1,5 @@
+# Docker Compose for Vector DB
+version: '3'
+services:
+  vector-db:
+    image: vector-db-image-placeholder

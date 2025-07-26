@@ -1,0 +1,3 @@
+# Job Tracker
+
+Track job applications...

@@ -1,0 +1,6 @@
+# GitHub Actions workflow placeholder
+name: CI for Chat API
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
